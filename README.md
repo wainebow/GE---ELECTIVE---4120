@@ -101,49 +101,19 @@
 
 <table align="center" width="760" bgcolor="#FFF0F5">
   <tr>
-    <th width="230" bgcolor="#F8BBD0" align="center">$\color{#D81B60}{\textbf{Output}}$</th>
-    <th width="530" bgcolor="#F8BBD0" align="center">$\color{#D81B60}{\textbf{Brief Overview}}$</th>
+    <th width="90" bgcolor="#F8BBD0" align="center">$\color{#D81B60}{\textbf{Icon}}$</th>
+    <th width="210" bgcolor="#F8BBD0" align="center">$\color{#D81B60}{\textbf{Output}}$</th>
+    <th width="460" bgcolor="#F8BBD0" align="center">$\color{#D81B60}{\textbf{Brief Overview}}$</th>
   </tr>
   <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🎀 Activity 1}}$<br><sub>Event Poster Design</sub></td>
+    <td align="center" bgcolor="#FFF0F5">
+      <img src="https://img.icons8.com/color/96/coffee-to-go.png" width="44" height="44" alt="Coffee Booth Poster" />
+    </td>
+    <td align="center" bgcolor="#FFF0F5">
+      $\color{#D81B60}{\textbf{୨୧ Activity 1 ୨୧}}$<br>
+      <sub>☕ Event Poster Design 🎨</sub>
+    </td>
     <td align="left" bgcolor="#FFF0F5">Designed an official promotional poster for the School of Nursing's free coffee giveaway at Arrupe Hall, Booth 7.</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 2}}$<br><sub>Personal Branding Kit</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Created a cohesive branding archive featuring a custom logo, personal tagline, color palette and typography guide, and matching resume header.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🎀 Activity 4}}$<br><sub>Google Workspace Guide</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Collaborated with Group 5 to present how to use Google Docs and hosted an interactive "Live Google Docs Race" highlighting real-time teamwork.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 5}}$<br><sub>AI Image Generation</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Generated two digital paintings using AI text prompts and evaluated their visual clarity, artistic detail, and prompt accuracy.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🎀 Activity 6}}$<br><sub>CARE FIRST Website</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Built a responsive nursing advocacy website educating mothers and families on safe pregnancy, newborn care, and WHO/DOH danger signs.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 7}}$<br><sub>Resume Generation</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Compared ChatGPT and Gemini in generating a one-page nursing resume to evaluate formatting, visual hierarchy, and layout quality.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FCE4EC">$\color{#C2185B}{\textbf{👑 Midterm Exam}}$<br><sub>Proposal & Budget</sub></td>
-    <td align="left" bgcolor="#FCE4EC">Combined a formal Word event proposal and an Excel budget sheet for the <i>Nursing Leadership and Management Event</i> (80 participants, ₱14,075 total budget).</td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆ ┈┈┈┈୨୧┈┈┈┈ ⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆`
-
-$\color{#D81B60}{\textbf{“Healing hands, a creative mind, and a heart full of grace.”}}$
-
-$\color{#E75480}{\text{₊˚⊹ ♡ 𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮 𝓫𝔂 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 ♡ ⊹˚₊}}$
-
-`︶꒦꒷♡꒷꒦︶ 🎀 ︶꒦꒷♡꒷꒦︶`
-
-</div>
+    <td align="center" bgcolor
