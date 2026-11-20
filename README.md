@@ -79,13 +79,13 @@
       <sub>Formatted resumes & comparative outputs</sub>
     </td>
     <td align="center" width="190" bgcolor="#FFF0F5">
-      <img src="https://img.icons8.com/color/96/web-design.png" width="55" height="55" alt="AI Web & Art" /><br>
-      $\color{#D81B60}{\textbf{AI Web & Art}}$<br>
+      <img src="https://img.icons8.com/color/96/web-design.png" width="55" height="55" alt="AI Web and Art" /><br>
+      $\color{#D81B60}{\textbf{AI Web and Art}}$<br>
       <sub>Advocacy websites & digital paintings</sub>
     </td>
     <td align="center" width="190" bgcolor="#FFF0F5">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub & Markdown" /><br>
-      $\color{#D81B60}{\textbf{GitHub & MD}}$<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub and MD" /><br>
+      $\color{#D81B60}{\textbf{GitHub and MD}}$<br>
       <sub>Repository portfolios & README styling</sub>
     </td>
   </tr>
@@ -109,41 +109,4 @@
     <td align="left" bgcolor="#FFF0F5">Designed an official promotional poster for the School of Nursing's free coffee giveaway at Arrupe Hall, Booth 7.</td>
   </tr>
   <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 2}}$<br><sub>Personal Branding Kit</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Created a cohesive branding archive featuring a custom logo, personal tagline, color palette and typography guide, and matching resume header.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🎀 Activity 4}}$<br><sub>Google Workspace Guide</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Collaborated with Group 5 to present how to use Google Docs and hosted an interactive "Live Google Docs Race" highlighting real-time teamwork.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 5}}$<br><sub>AI Image Generation</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Generated two digital paintings using AI text prompts and evaluated their visual clarity, artistic detail, and prompt accuracy.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🎀 Activity 6}}$<br><sub>CARE FIRST Website</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Built a responsive nursing advocacy website educating mothers and families on safe pregnancy, newborn care, and WHO/DOH danger signs.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FFF0F5">$\color{#D81B60}{\textbf{🩰 Activity 7}}$<br><sub>Resume Generation</sub></td>
-    <td align="left" bgcolor="#FFF0F5">Compared ChatGPT and Gemini in generating a one-page nursing resume to evaluate formatting, visual hierarchy, and layout quality.</td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#FCE4EC">$\color{#C2185B}{\textbf{👑 Midterm Exam}}$<br><sub>Proposal & Budget</sub></td>
-    <td align="left" bgcolor="#FCE4EC">Combined a formal Word event proposal and an Excel budget sheet for the <i>Nursing Leadership and Management Event</i> (80 participants, ₱14,075 total budget).</td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆ ┈┈┈┈୨୧┈┈┈┈ ⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆`
-
-$\color{#D81B60}{\textbf{“Healing hands, a creative mind, and a heart full of grace.”}}$
-
-$\color{#E75480}{\text{₊˚⊹ ♡ 𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮 𝓫𝔂 𝓛𝓸𝓻𝓻𝓪𝓲𝓷𝓮 ♡ ⊹˚₊}}$
-
-`︶꒦꒷♡꒷꒦︶ 🎀 ︶꒦꒷♡꒷꒦︶`
-
-</div>
+    <td align
