@@ -4,7 +4,7 @@
 
 $\color{#FF69B4}{\Huge\textbf{🎀 Resume Generation 🎀}}$
 
-![Coquette Badge](https://img.shields.io/badge/୨୧_Laboratory_10-Comparative_Resume_Generation-FFB6C1?style=for-the-badge&labelColor=FFF0F5)
+![Coquette Badge](https://img.shields.io/badge/୨୧_Comparative_Resume_Generation-FFB6C1?style=for-the-badge&labelColor=FFF0F5)
 
 `︶꒦꒷♡꒷꒦︶ 🎀 ︶꒦꒷♡꒷꒦︶`
 
