@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td bgcolor="#FFF0F5" align="center">
-      <p>🎀 This file showcases a resume generation activity that compares how ChatGPT and Gemini create a one-page professional resume using the exact same personal, educational, and training details. It contains the prompt used, the separate outputs from both AI tools, a side-by-side comparison table, a reflection, and the final formatted resume. 🎀</p>
+      <p> This file showcases a resume generation activity that compares how ChatGPT and Gemini create a one-page professional resume using the exact same personal, educational, and training details. It contains the prompt used, the separate outputs from both AI tools, a side-by-side comparison table, a reflection, and the final formatted resume. </p>
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
     <td bgcolor="#FFF0F5" align="center">
       <p>I learned that different AI tools format the same information in very different ways. When I entered my personal details, ChatGPT gave a plain text response that needed manual editing, while Gemini generated a clean and organized resume layout right away.</p>
       <p>I also learned how to pick the right AI tool based on what I need for a task. ChatGPT works well if I only want a simple text draft to edit on my own, while Gemini is better when I want a styled document that is ready to use.</p>
-      <p>୨୧ Finally, I realized that good formatting and design matter a lot when presenting important information. Proper headings, clean spacing, and visual structure make a resume much easier to read and look more professional.</p>
+      <p>Finally, I realized that good formatting and design matter a lot when presenting important information. Proper headings, clean spacing, and visual structure make a resume much easier to read and look more professional.</p>
     </td>
   </tr>
 </table>
