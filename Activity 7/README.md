@@ -2,9 +2,9 @@
 
 `⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆ ┈┈┈┈୨୧┈┈┈┈ ⋆｡‧˚ʚ 🎀 ɞ˚‧｡⋆`
 
-$\color{#FF69B4}{\Huge\textbf{🎀 Resume Generation 🎀}}$
+[![Resume Generation](https://readme-typing-svg.demolab.com?font=Great+Vibes&size=50&duration=1&pause=999999&color=FF69B4&center=true&vCenter=true&repeat=false&width=650&height=85&lines=%E0%AD%A8%E0%AD%A7+Resume+Generation+%E0%AD%A8%E0%AD%A7)](https://git.io/typing-svg)
 
-![Coquette Badge](https://img.shields.io/badge/୨୧_Comparative_Resume_Generation-FFB6C1?style=for-the-badge&labelColor=FFF0F5)
+![Coquette Badge](https://img.shields.io/badge/🎀_Comparative_Resume_Generation-FFB6C1?style=for-the-badge&labelColor=FFF0F5)
 
 `︶꒦꒷♡꒷꒦︶ 🎀 ︶꒦꒷♡꒷꒦︶`
 
@@ -16,7 +16,7 @@ This file showcases a resume generation activity that compares how ChatGPT and G
 
 <div align="center">
 
-$\color{#FF69B4}{\Large\textbf{୨୧ ₊˚ 🎀 What have I learned? 🎀 ˚₊ ୨୧}}$
+## ୨୧ ₊˚ 🎀 𝓦𝓱𝓪𝓽 𝓱𝓪𝓿𝓮 𝓘 𝓵𝓮𝓪𝓻𝓷𝓮𝓭? 🎀 ˚₊ ୨୧
 
 </div>
 
@@ -30,6 +30,6 @@ Finally, I realized that good formatting and design matter a lot when presenting
 
 `‧₊˚ ⋅ ୨୧ ⋅ ˚₊‧`
 
-🩰 *⋆｡‧˚ʚ♡ɞ˚‧｡⋆* 🎀 *⋆｡‧˚ʚ♡ɞ˚‧｡⋆* 🩰
+🩰 *⋆｡‧˚ʚ♡ɞ˚‧｡⋆* 🎀 𝓶𝓪𝓭𝓮 𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮 🎀 *⋆｡‧˚ʚ♡ɞ˚‧｡⋆* 🩰
 
 </div>
